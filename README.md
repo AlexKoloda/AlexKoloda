@@ -5,7 +5,8 @@ Hi, I'm Alexey! 👋 I'm a web developer who loves traveling and meeting new peo
 
 ## Programming Languages
 - JavaScript
-- TypeScript
+- TypeScript ![image](https://github.com/user-attachments/assets/3cc13e03-c2f0-40e6-b8f2-971ba6be9b32)
+
 
 ## Web Development Frameworks and Libraries
 - React
@@ -21,5 +22,5 @@ Hi, I'm Alexey! 👋 I'm a web developer who loves traveling and meeting new peo
 ## Design Tools
 - Figma
 
-## Motivation
+
 Keep an eye out for my projects! 🚀 I'm always looking to learn and grow. 📈
