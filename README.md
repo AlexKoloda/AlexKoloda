@@ -5,7 +5,7 @@ Hi, I'm Alexey! 👋 I'm a web developer who loves traveling and meeting new peo
 
 ## Programming Languages
 - JavaScript
-- TypeScript ![image](https://github.com/user-attachments/assets/3cc13e03-c2f0-40e6-b8f2-971ba6be9b32)
+- TypeScript 
 
 
 ## Web Development Frameworks and Libraries
