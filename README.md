@@ -13,6 +13,8 @@ Hi, I'm Alexey! 👋 I'm a web developer who loves traveling and meeting new peo
 ## Web Development Frameworks and Libraries
 ![REACT](https://github.com/user-attachments/assets/ac67a713-4d25-4e80-92d6-20a0a3b5c987) • React
 
+![NEXTJS](https://github.com/user-attachments/assets/ac67a713-4d25-4e80-92d6-20a0a3b5c987) • NextJS
+
 ![logo-redux](https://github.com/user-attachments/assets/4fc4ce46-2f57-4b48-ac3c-aaabf9a0d5ea) • Redux
 
 ![HTML](https://github.com/user-attachments/assets/087a8d98-8fae-4d48-be0d-a2c53fcab0cb) • HTML
